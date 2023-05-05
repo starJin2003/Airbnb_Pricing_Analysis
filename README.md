@@ -9,3 +9,11 @@ The target users who want to see this analysis are 1) hosts who don't know how t
 
 ## Objective
 Our primary goal is to predict the price of an Airbnb based on its features. The realization of the reason Airbnb became famous has made us think of a question: what factors make Airbnb's services cheaper and on what basis do hosts set their own Airbnb’s price? Thus, we will try to understand the factors influencing Airbnb prices and create a predictive model that estimates the price of an Airbnb listing with its features. This will enable hosts to reasonably price their properties, guests to identify fairly priced accommodations, and other travel platforms to gain insights into Airbnb's pricing strategies.
+
+## Method
+1. Initial Feature Selection
+2. Feature Engineering
+3. Feature Selection
+4. Model Training
+
+For further information, please see the final version of the code and the final report.
